@@ -1,3 +1,0 @@
-Data Wrangling Project
-
-This project used  data for Tampa, Florida US (https://mapzen.com/data/metro-extracts/metro/tampa_florida/). I chose this data because tis is my hometown I felt that my familiarity with the area would allow me to make a greater contribution to the OpenStreetMap project.
