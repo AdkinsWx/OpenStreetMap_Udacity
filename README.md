@@ -1,14 +1,18 @@
 # OpenStreetMap_Udacity
 
 ## Project Details
-This project is connected to the Data Wrangling course. You have the choice between two databases for this project: SQL and MongoDB. For an explanation of the differences between these two databases, see this node. There are separate instructions where relevant below for each database choice.
+This project is connected to the Data Wrangling course from Udacity. You have the choice between two databases for this project: SQL and MongoDB. I opted to utilize SQL. The project is broken into steps below.
+
+## Running the Code:
+To see the final code and analysis use this link:
+https://github.com/AdkinsWx/OpenStreetMap_Udacity/blob/master/Final_Code.ipynb
 
 ## Here's what you should do:
 
 ### Step One - Complete Programming Exercises
 Make sure all programming exercises are solved correctly in the "Case Study: OpenStreetMap Data" Lesson in the course you have chosen (MongoDB or SQL). This is the last lesson in that section.
 
-###Step Two - Review the Rubric and Sample Project
+### Step Two - Review the Rubric and Sample Project
 The Project Rubric will be used to evaluate your project. It will need to Meet Specifications for all the criteria listed. Here is an example of what your final report could look like if you choose the SQL option:
 
 SQL Sample Project
